@@ -33,5 +33,5 @@ Furthermore, the OAuth2 flows might intimidate at the beginning but the advantag
 
 Several library implementations exist for the most used languages/platforms.
 
-Please refer to this quide for an in-depth step-by-step overview of OAuth2.
+Please refer to this guide (https://www.oauth.com/) for an in-depth step-by-step overview of OAuth2.
 
