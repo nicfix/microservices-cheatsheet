@@ -6,12 +6,12 @@ Approved
 
 ## Context
 
-Implementing authentication mechamisms in a microservices architecture brings several challenges.
+Implementing authentication mechanisms in a microservices architecture unfolds several challenges.
 
 The services might be exposed to different clients:
 * Web
 * Mobile
-* Other Services
+* Other Internal Services
 * 3rd Parties
 
 Every client might require a different authentication schema. 
