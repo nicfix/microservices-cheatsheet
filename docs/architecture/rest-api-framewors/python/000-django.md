@@ -16,4 +16,4 @@ When creating a core service, with complex domain rules, evaluate django with th
 
 ## Consequences
 
-TBD
+Evaluate: https://github.com/clarkduvall/serpy

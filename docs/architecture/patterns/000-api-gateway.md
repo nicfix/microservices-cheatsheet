@@ -14,4 +14,6 @@ TBD
 
 ## Consequences
 
-TBD
+Technologies that can be used:
+* https://konghq.com/kong/
+* https://www.krakend.io/
