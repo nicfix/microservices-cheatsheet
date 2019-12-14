@@ -17,7 +17,7 @@ In v16.8.0 React introduced Hooks as a way to solve this problem.
 
 ## Decision
 
-Evaluate React Hooks
+Evaluate [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 
 ## Consequences
 
