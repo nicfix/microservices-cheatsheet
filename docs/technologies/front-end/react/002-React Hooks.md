@@ -30,5 +30,5 @@ Evaluate [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 #### Cons:
 * Hooks result depends on the order of execution :(
 * Hooks force to use function components, they are not supported by class based components.
-* Hooks introduce implicit side effects and subscriptions to state and context that make components harder to test.
+* Hooks introduce implicit side effects due to subscriptions to state and context changes. This can make components harder to test.
 
