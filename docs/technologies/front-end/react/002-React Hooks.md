@@ -32,3 +32,9 @@ Evaluate [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 * Hooks force to use function components, they are not supported by class based components.
 * Hooks introduce implicit side effects due to subscriptions to state and context changes. This can make components harder to test.
 
+
+### Controverse quotes
+Regarding useEffect https://it.reactjs.org/docs/hooks-reference.html#useeffect
+
+> Instead, use useEffect. The function passed to useEffect will run after the render is committed to the screen. Think of effects as an escape hatch from React’s purely functional world into the imperative world.
+
